@@ -1,0 +1,11 @@
+Model Information:
+* title:	Optimus G1 - Human Alliance
+* source:	https://sketchfab.com/3d-models/optimus-g1-human-alliance-6e99134af95b4a5686f09ba2dd8b9652
+* author:	Angel300_LQ (https://sketchfab.com/Angel300_LQ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Optimus G1 - Human Alliance" (https://sketchfab.com/3d-models/optimus-g1-human-alliance-6e99134af95b4a5686f09ba2dd8b9652) by Angel300_LQ (https://sketchfab.com/Angel300_LQ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
