@@ -1,0 +1,11 @@
+Model Information:
+* title:	Supermarine Spitfire Mk XIV
+* source:	https://sketchfab.com/3d-models/supermarine-spitfire-mk-xiv-9fd7912fde0941dda60a584ae3813d3c
+* author:	twofiftyfive (https://sketchfab.com/twofiftyfive)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Supermarine Spitfire Mk XIV" (https://sketchfab.com/3d-models/supermarine-spitfire-mk-xiv-9fd7912fde0941dda60a584ae3813d3c) by twofiftyfive (https://sketchfab.com/twofiftyfive) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
