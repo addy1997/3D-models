@@ -1,5 +1,3 @@
-import * as THREE from 'https://unpkg.com/three/build/three.module.js';
-
 import {
   ColladaLoader
 } from 'https://cdn.jsdelivr.net/npm/three@0.119/examples/jsm/loaders/ColladaLoader.js';
@@ -13,7 +11,7 @@ AFRAME.registerComponent("collada-storm-trooper", {
       new THREE.Box3Helper(this.sbox, 0x00ff00)
     );
     loader.load(
-      "https://raw.githubusercontent.com/gftruj/webzamples/master/aframe/assets/models/stormtrooper/stormtrooper.dae",
+      "https://cdn.jsdelivr.net/gh/gftruj/webzamples@master/aframe/assets/models/stormtrooper/stormtrooper.dae",
       collada => {
         var animations = collada.animations;
         var root = collada.scene;
